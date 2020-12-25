@@ -1,0 +1,9 @@
+C:\Users\mrmar\source\repos\FolderService\EmailService\bin\Release\netcoreapp3.1\EmailService.deps.json
+C:\Users\mrmar\source\repos\FolderService\EmailService\bin\Release\netcoreapp3.1\EmailService.dll
+C:\Users\mrmar\source\repos\FolderService\EmailService\bin\Release\netcoreapp3.1\EmailService.pdb
+C:\Users\mrmar\source\repos\FolderService\EmailService\obj\Release\netcoreapp3.1\EmailService.csprojAssemblyReference.cache
+C:\Users\mrmar\source\repos\FolderService\EmailService\obj\Release\netcoreapp3.1\EmailService.AssemblyInfoInputs.cache
+C:\Users\mrmar\source\repos\FolderService\EmailService\obj\Release\netcoreapp3.1\EmailService.AssemblyInfo.cs
+C:\Users\mrmar\source\repos\FolderService\EmailService\obj\Release\netcoreapp3.1\EmailService.csproj.CoreCompileInputs.cache
+C:\Users\mrmar\source\repos\FolderService\EmailService\obj\Release\netcoreapp3.1\EmailService.dll
+C:\Users\mrmar\source\repos\FolderService\EmailService\obj\Release\netcoreapp3.1\EmailService.pdb
