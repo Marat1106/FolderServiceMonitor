@@ -40,6 +40,9 @@ namespace FolderService
         {
             _logger.LogInformation("New message had sended at: {time}", DateTimeOffset.Now);
             var message = new Message(new string[] { "assistantsender@gmail.com" },"Test subject","Test content", fullPath);
+            _emailSender.SendEmail(message);
+
+
         }
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
@@ -53,7 +56,7 @@ namespace FolderService
                 }
                 watcher.EnableRaisingEvents = true;// starts listening   
                 _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-                await Task.Delay(6000, stoppingToken);
+                await Task.Delay(3000, stoppingToken);
             }
         }
 
